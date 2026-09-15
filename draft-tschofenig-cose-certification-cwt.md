@@ -5,8 +5,8 @@ docname: draft-tschofenig-cose-certification-cwt-latest
 category: std
 submissiontype: IETF
 ipr: trust200902
-area: Security
-workgroup: COSE
+area: "Security"
+workgroup: "CBOR Object Signing and Encryption"
 keyword: Internet-Draft
 stand_alone: yes
 pi:
